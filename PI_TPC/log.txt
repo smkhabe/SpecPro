@@ -1,0 +1,12 @@
+Performance report exported with 'sample' data for block storage system SVC-2145-CS4SVC1-IBM on May 3, 2018 12:32 PM.
+Time range of report: May 2, 2018 12:00 PM with a duration of 1 hours 0 minutes.
+
+Storage System data: 12 rows were processed.
+Port data: 576 rows were processed.
+Host Connection data: 3,180 rows were processed.
+I/O Group data: 24 rows were processed.
+Pool data: 48 rows were processed.
+MDisk data: 732 rows were processed.
+Volume data: 14,160 rows were processed.
+Node data: 48 rows were processed.
+Disk data: No performance data is available within the specified time range.
